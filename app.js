@@ -14,3 +14,6 @@ $('#pagepiling').pagepiling({
     // tl.staggerTo(Select, 0.5, { y: "60", opacity: 0 });
   }
 });
+
+
+$('#pp-nav').hide();
